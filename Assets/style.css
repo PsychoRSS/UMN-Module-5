@@ -44,7 +44,10 @@ textarea {
   background-color: #77dd77;
   color: white;
 }
-
+.not {
+  background-color: darkmagenta;
+  color: white;
+}
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
